@@ -49,7 +49,7 @@ Ownership and one completed loop make the case for Kortix. The repo is the compa
 - **Any model, your keys.** Claude, OpenAI, Gemini or your own OpenAI-compatible endpoint, or the ChatGPT plan you already pay for.
 - **A real agent harness.** Planning, tool use and multi-step runs that finish, powered by OpenCode.
 - **Every session gets its own computer.** One isolated sandbox per session, thousands in parallel, nothing to install.
-- **One gate to land work.** Start agents from web, Slack, Teams, mobile, CLI, API, a cron trigger or a webhook (email too, experimental per project), and the work reaches you as a change request to review.
+- **One gate to land work.** Start agents from web, Slack, Teams, email, mobile, CLI, API, a cron trigger or a webhook, and the work reaches you as a change request to review.
 
 ## Self-host in three steps
 
