@@ -47,7 +47,7 @@ Ownership and one completed loop make the case for Kortix. The repo is the compa
 - **The company is one git repo.** Agents, skills, memory, connector config and triggers are files you own.
 - **Every tool the company runs on.** 3,000+ apps in a click, plus MCP, OpenAPI, GraphQL or raw HTTP, with credentials brokered server-side and allow, ask or block per tool call.
 - **Any model, your keys.** Claude, OpenAI, Gemini or your own OpenAI-compatible endpoint, or the ChatGPT plan you already pay for.
-- **A real agent harness.** Planning, tool use and multi-step runs that finish, powered by OpenCode.
+- **A real agent harness**, open source and yours to extend. Planning, tool use and multi-step runs that finish. Every new session runs pi, an open-source (MIT) agent harness.
 - **Every session gets its own computer.** One isolated sandbox per session, thousands in parallel, nothing to install.
 - **One gate to land work.** Start agents from web, Slack, Teams, email, mobile, CLI, API, a cron trigger or a webhook, and the work reaches you as a change request to review.
 
