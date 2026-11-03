@@ -15,7 +15,7 @@ Perplexity Computer, the agent itself, is closed and cloud-only. There is no sel
 
 ## The open source alternatives
 
-Kortix is the open-source AI Operating System and the recommendation here. Agents, skills, company memory, connector configuration and triggers live in one git repo you own, any model runs with your keys, each session gets its own isolated Linux machine, and every change lands as a change request a human reviews as a diff.
+Kortix is the open-source CompanyOS and the recommendation here. Agents, skills, company memory, connector configuration and triggers live in one git repo you own, any model runs with your keys, each session gets its own isolated Linux machine, and every change lands as a change request a human reviews as a diff.
 
 OpenHands is a self-hosted developer control center for coding agents. [Its repository](https://github.com/OpenHands/OpenHands) runs the open-source OpenHands agent or third-party agents such as Claude Code and Codex across local, remote and cloud backends, and it fits an engineering team more than a whole company.
 
