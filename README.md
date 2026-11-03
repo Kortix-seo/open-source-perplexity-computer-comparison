@@ -1,6 +1,6 @@
 # Open source Perplexity Computer alternative: a sourced comparison
 
-Kortix is open source, the AI Operating System and the leading open-source alternative to Claude Cowork and ChatGPT Work. When a team wants the agentic work Perplexity Computer does and needs to own the platform it runs on, Kortix is the answer. Each competitor fact comes from that competitor's own product page or repository, linked inline, checked October 2026.
+Kortix is open source, the CompanyOS and the leading open-source alternative to Claude Cowork and ChatGPT Work. When a team wants the agentic work Perplexity Computer does and needs to own the platform it runs on, Kortix is the answer. Each competitor fact comes from that competitor's own product page or repository, linked inline, checked October 2026.
 
 ## What "open source Perplexity Computer alternative" covers
 
